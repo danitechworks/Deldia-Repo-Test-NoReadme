@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Example repository preview metadata. -->
+<repository name="DelDia Sample" enabled="true">
+  <description>Preview &lt;files&gt; &amp; &quot;folders&quot;</description>
+  <settings>
+    <port>8080</port>
+    <theme>light</theme>
+  </settings>
+  <files>
+    <file language="csharp">Calculator.cs</file>
+    <file language="python">example.py</file>
+  </files>
+  <labels>
+    <label>example</label>
+    <label>syntax highlighting</label>
+  </labels>
+</repository>

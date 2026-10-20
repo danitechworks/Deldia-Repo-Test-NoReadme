@@ -1,0 +1,10 @@
+HTML-sensitive: <section title="Preview & details">Text</section>
+Quotes: "double quotes", 'single quotes', and `backticks`.
+Swedish lowercase: å, ä, ö.
+Swedish uppercase: Å, Ä, Ö.
+Swedish phrase: Räksmörgås på en ö.
+Unicode: café, naïve, Ελληνικά, 日本語.
+Symbols: © ™ € £ → ≤ ≥ ≠.
+Emojis: 😀 🚀 📁 🧪.
+Literal entities: &amp; &lt; &gt; &quot;.
+Paths and escapes: samples/example.txt | \t | \n.

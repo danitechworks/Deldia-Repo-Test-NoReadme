@@ -1,0 +1,4 @@
+Short line: repository preview wrapping test.
+This deliberately long line contains harmless sample text for testing horizontal scrolling and wrapping in the DelDia repository explorer: alpha bravo charlie delta echo foxtrot golf hotel india juliet kilo lima mike november oscar papa quebec romeo sierra tango uniform victor whiskey xray yankee zulu; repeat with <tags>, "quoted values", ampersands & symbols, and numeric values 1234567890 to extend the line beyond three hundred characters.
+Medium line: this text should remain readable when the preview panel is narrow.
+Final line: end of the scrolling fixture.

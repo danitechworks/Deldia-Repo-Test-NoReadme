@@ -1,0 +1,16 @@
+# Harmless repository explorer settings.
+application:
+  name: "DelDia <Sample> & Preview"
+  environment: "example"
+  enabled: true
+  port: 8080
+preview:
+  theme: "light"
+  lineNumbers: true
+  limits:
+    maxLines: 250
+    maxBytes: 65536
+  extensions:
+    - ".yaml"
+    - ".tsx"
+    - ".xml"

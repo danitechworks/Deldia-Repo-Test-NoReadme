@@ -1,0 +1,14 @@
+# Unsupported extension: plain-text fallback sample.
+name = "DelDia preview"
+enabled = true
+count = 3
+
+items = ["alpha", "beta", "gamma"]
+options = {
+    theme: "light",
+    nested: { visible: true, limit: 25 }
+}
+
+Literal markup: <example title="sample">A & B</example>
+Unicode label: "Smörgås 🚀"
+End of plain-text fixture.
