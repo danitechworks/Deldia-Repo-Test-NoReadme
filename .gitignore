@@ -1,0 +1,15 @@
+# C# build output
+bin/
+obj/
+
+# Local editor settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

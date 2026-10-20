@@ -1,0 +1,19 @@
+/* Simple styling for a repository preview card. */
+:root {
+    color: #243047;
+    background-color: #f5f7fb;
+    font-family: Arial, sans-serif;
+}
+
+.preview-card {
+    max-width: 640px;
+    margin: 24px auto;
+    padding: 20px;
+    border: 1px solid #dce2eb;
+    border-radius: 8px;
+}
+
+.preview-card h1 {
+    color: #2859a8;
+    font-size: 24px;
+}
